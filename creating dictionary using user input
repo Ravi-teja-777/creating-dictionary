@@ -1,0 +1,7 @@
+i=input("Enter input to dic : ")
+j=input("Enter input to dic : ")
+k=input("Enter input to dic : ")
+l=input("Enter input to dic : ")
+
+dic = {i:j,k:l}
+print(dic)
